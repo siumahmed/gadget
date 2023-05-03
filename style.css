@@ -1,0 +1,34 @@
+.keno{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 10px;
+    border: none;
+    cursor: pointer;
+}
+.w-50{
+    text-decoration: none;
+    float: right;
+}
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px
+}
